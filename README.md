@@ -112,7 +112,7 @@
 ### 🟠 AWS Certifications
 
 <a href="https://www.credly.com/badges/41525df4-e8d5-4432-b5e8-72002056f258/public_url" title="AWS Certified Cloud Practitioner">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="90" height="90">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100" height="100">
 </a>
 
 ---
@@ -124,7 +124,7 @@
 </a>
 
 <a href="https://www.credly.com/badges/eae1f106-8c16-45b3-9f2f-2e1f50015d9c/public_url" title="Red Hat Certified Engineer">
-  <img src="https://images.credly.com/size/340x340/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="Red Hat Certified Engineer" width="80" height="100">
+  <img src="https://images.credly.com/size/340x340/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="Red Hat Certified Engineer" width="100" height="100">
 </a>
 
 ---
@@ -132,7 +132,7 @@
 ### 🟢 Linux Foundation
 
 <a href="https://www.credly.com/badges/cd4f39cf-c65d-4223-b92d-f8d467e6bab6/public_url" title="Certified Kubernetes Administrator">
-  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" width="90" height="90">
+  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" width="100" height="100">
 </a>
 
 ---
@@ -149,6 +149,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
 </p>
 
@@ -161,7 +162,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="35" width="35"/>
   </a>
   <a href="mailto:mahmoudgamal2727@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" height="35" width="35"/>
+    <img src="https://th.bing.com/th/id/R.4d6db56fe0851ae7635b0dfd1cd86a72?rik=lK4d8jxpm0EqAw&pid=ImgRaw&r=0" alt="Email" height="35" width="35"/>
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-gamal-593039257" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="35" width="35"/>
