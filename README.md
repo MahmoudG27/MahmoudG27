@@ -92,19 +92,19 @@
 ### 🟦 Microsoft Certifications
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/MahmoudGamal-7525/6DE0AEBB5F3C61F9?sharingId=A199E8B475177EB5" title="Azure Administrator Associate">
-  <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Administrator Associate" width="80" height="80">
+  <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Administrator Associate" width="90" height="90">
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/MahmoudGamal-7525/3C897BA420CCC88A?sharingId=A199E8B475177EB5" title="Azure DevOps Engineer Expert">
-  <img src="https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="Azure DevOps Engineer Expert" width="80" height="80">
+  <img src="https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="Azure DevOps Engineer Expert" width="90" height="90">
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/MahmoudGamal-7525/BA2ABA6B0E68AE64?sharingId=A199E8B475177EB5" title="Azure Developer Associate">
-  <img src="https://images.credly.com/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="Azure Developer Associate" width="80" height="80">
+  <img src="https://images.credly.com/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="Azure Developer Associate" width="90" height="90">
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/MahmoudGamal-7525/AE738F0804760E99?sharingId=A199E8B475177EB5" title="Azure Cosmos DB Developer Specialty">
-  <img src="https://images.credly.com/size/340x340/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png" alt="Azure Cosmos DB Developer Specialty" width="80" height="80">
+  <img src="https://images.credly.com/size/340x340/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png" alt="Azure Cosmos DB Developer Specialty" width="90" height="90">
 </a>
 
 ---
@@ -112,7 +112,7 @@
 ### 🟠 AWS Certifications
 
 <a href="https://www.credly.com/badges/41525df4-e8d5-4432-b5e8-72002056f258/public_url" title="AWS Certified Cloud Practitioner">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="90" height="90">
 </a>
 
 ---
@@ -120,11 +120,11 @@
 ### 🟥 Red Hat Certifications
 
 <a href="https://www.credly.com/badges/e6e0aeec-d636-424f-9d2a-b19995e38eec/public_url" title="Red Hat Certified System Administrator">
-  <img src="https://images.credly.com/size/340x340/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="Red Hat Certified System Administrator" width="80" height="80">
+  <img src="https://images.credly.com/size/340x340/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="Red Hat Certified System Administrator" width="100" height="100">
 </a>
 
 <a href="https://www.credly.com/badges/eae1f106-8c16-45b3-9f2f-2e1f50015d9c/public_url" title="Red Hat Certified Engineer">
-  <img src="https://images.credly.com/size/340x340/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="Red Hat Certified Engineer" width="80" height="80">
+  <img src="https://images.credly.com/size/340x340/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="Red Hat Certified Engineer" width="80" height="100">
 </a>
 
 ---
@@ -132,7 +132,7 @@
 ### 🟢 Linux Foundation
 
 <a href="https://www.credly.com/badges/cd4f39cf-c65d-4223-b92d-f8d467e6bab6/public_url" title="Certified Kubernetes Administrator">
-  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" width="80" height="80">
+  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" width="90" height="90">
 </a>
 
 ---
@@ -149,24 +149,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="  https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
 </p>
-
----
-
-## 📬 Contact Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-gamal-593039257)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:mahmoudgamal2727@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=linkedin&logoColor=white)](https://wa.me/201010647265)  
 
 ---
 
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://wa.me/201010647265" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="WhatsApp" height="30" width="30" /></a>
-  <a href="mailto:mahmoudgamal2727@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/mahmoud-gamal-593039257" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="https://github.com/mahmoudG27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="30" /></a>
+  <a href="https://wa.me/201010647265" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="35" width="35"/>
+  </a>
+  <a href="mailto:mahmoudgamal2727@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" height="35" width="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-gamal-593039257" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="35" width="35"/>
+  </a>
+  <a href="https://github.com/mahmoudG27" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="35" width="35"/>
+  </a>
 </p>
