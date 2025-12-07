@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/mahmoud-gamal-593039257" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://wa.me/201010647265" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
   <a href="https://x.com/Elnabatshy1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
@@ -15,13 +18,7 @@
   <a href="https://www.facebook.com/mmhassan1111" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://wa.me/201010647265" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
-
-###
-
-
 
 ###
 
@@ -60,7 +57,9 @@
 </div>
 
 ###
+
 ---
+
 ## 😎 About Me  
 - ☁️ I work as a **Azure Cloud Engineer** specialized in **Open Source technology**.
 - 🚀 3+ years of experience in DevOps.  
@@ -162,7 +161,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="35" width="35"/>
   </a>
   <a href="mailto:mahmoudgamal2727@gmail.com" target="_blank">
-    <img src="https://th.bing.com/th/id/R.4d6db56fe0851ae7635b0dfd1cd86a72?rik=lK4d8jxpm0EqAw&pid=ImgRaw&r=0" alt="Email" height="35" width="35"/>
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Email" height="35" width="35"/>
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-gamal-593039257" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="35" width="35"/>
