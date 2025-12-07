@@ -7,7 +7,7 @@
 <!-- ====== TOOL STACK LOGOS ====== -->
 <p align="center">
   <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,linux,docker,kubernetes,terraform,ansible,git,github,githubactions,nginx,prometheus,grafana,helm,bash,powershell,mysql,sqlite&perline=8" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,linux,docker,kubernetes,aks,terraform,ansible,git,github,githubactions,nginx,prometheus,grafana,helm,bash,mysql&perline=8" />
 </p>
 
 <hr>
