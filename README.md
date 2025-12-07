@@ -8,21 +8,18 @@
 
 ---
 
-## 📫 Contact Me
-
-* WhatsApp: [+20 1010647265](https://wa.me/201010647265)
-* Email: [mahmoudgamal2727@gmail.com](mailto:mahmoudgamal2727@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/mahmoud-gamal-593039257](https://www.linkedin.com/in/mahmoud-gamal-593039257)
-* GitHub: [https://github.com/mahmoudG27](https://github.com/mahmoudG27)
-* Location: 6th of October, Giza, Egypt
-
----
-
 ## 💼 Experience
 
 **Azure Cloud Engineer – Open Source**
 *KlayyTech for Digital Transformation*
-*Aug 2023 – Present*
+
+* Managed and deployed Azure cloud resources and infrastructure
+* Implemented CI/CD pipelines using Azure DevOps, Jenkins, and Argo CD
+* Automated infrastructure provisioning with Terraform and Ansible
+* Managed containerized applications with Docker and Kubernetes
+* Monitored systems using Prometheus and Grafana
+* Maintained MySQL and MongoDB databases
+* Configured and managed web servers (Nginx, Apache)
 
 ---
 
@@ -53,31 +50,22 @@
 ## 🎓 Certifications
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" title="AZ-204"/> Azure Developer Associate (AZ-204)
-</p>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" title="AZ-400"/> Azure DevOps Engineer Expert (AZ-400)
-</p>
-<p align="left">
-  <img src="https://www.redhat.com/cms/managed-files/red-hat-logo.svg" width="40" height="40" title="RHCE"/> Red Hat Certified Engineer (RHCE – EX294)
-</p>
-<p align="left">
-  <img src="https://www.linuxfoundation.org/wp-content/uploads/2022/07/lf-logo-horizontal-color-rgb-600x142.png" width="40" height="40" title="CKA"/> Certified Kubernetes Administrator (CKA)
-</p>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" title="AZ-104"/> Azure Administrator Associate (AZ-104)
-</p>
-<p align="left">
-  <img src="https://www.redhat.com/cms/managed-files/red-hat-logo.svg" width="40" height="40" title="RHCSA"/> Red Hat Certified System Administrator (RHCSA – EX200)
-</p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/> AWS Certified Cloud Practitioner
+  <img src="https://img.shields.io/badge/AZ-204-Azure-blue?style=for-the-badge&logo=microsoftazure" title="AZ-204"/> 
+  <img src="https://img.shields.io/badge/AZ-400-Azure-blue?style=for-the-badge&logo=microsoftazure" title="AZ-400"/> 
+  <img src="https://img.shields.io/badge/RHCE-RedHat-red?style=for-the-badge&logo=redhat" title="RHCE"/> 
+  <img src="https://img.shields.io/badge/CKA-LinuxFoundation-000000?style=for-the-badge&logo=linuxfoundation" title="CKA"/> 
+  <img src="https://img.shields.io/badge/AZ-104-Azure-blue?style=for-the-badge&logo=microsoftazure" title="AZ-104"/> 
+  <img src="https://img.shields.io/badge/RHCSA-RedHat-red?style=for-the-badge&logo=redhat" title="RHCSA"/> 
+  <img src="https://img.shields.io/badge/AWS-CloudPractitioner-orange?style=for-the-badge&logo=amazonaws" title="AWS Cloud Practitioner"/> 
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 📫 Contact Me
 
-I am a passionate DevOps and Azure Cloud Engineer focused on leveraging open-source tools to build scalable, reliable, and automated cloud infrastructure. I enjoy solving complex problems, optimizing pipelines, and improving operational efficiency.
-
----
+<p align="left">
+  <a href="https://wa.me/201010647265" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="WhatsApp" height="30" width="30" /></a>
+  <a href="mailto:mahmoudgamal2727@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/mahmoud-gamal-593039257" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://github.com/mahmoudG27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="30" /></a>
+</p>
