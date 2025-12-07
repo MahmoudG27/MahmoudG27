@@ -1,57 +1,83 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Gamal</h1>
+# Mahmoud Gamal – DevOps & Azure Cloud Engineer OSS
 
-<h3 align="center">DevOps Engineer | Azure Cloud Engineer OSS | Kubernetes | Automation</h3>
+<h1 align="center">Hello 👋, I'm Mahmoud Gamal</h1>
 
-<br>
-
-<!-- ====== TOOL STACK LOGOS ====== -->
 <p align="center">
-  <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,linux,docker,kubernetes,terraform,ansible,git,github,githubactions,nginx,prometheus,grafana,helm,bash,powershell,mysql,sqlite&perline=8" />
+  Azure Cloud Engineer & DevOps Engineer with 3 years of experience in managing cloud infrastructure, CI/CD pipelines, container orchestration, and open-source tools.
 </p>
 
-<hr>
+---
 
-## 👨‍💻 About Me  
-- I work as a **Linux & Cloud Engineer** specialized in **DevOps, Automation, and Azure OSS**.  
-- Experienced with Kubernetes, CI/CD, Containers, and Infrastructure as Code.  
-- Hands-on skills deploying and managing Azure, AKS, Application Gateway, Ingress, and cloud networking.  
-- Passionate about Infrastructure Automation, Cloud Security, and Distributed Systems.
+## 📫 Contact Me
 
-<hr>
+* WhatsApp: [+20 1010647265](https://wa.me/201010647265)
+* Email: [mahmoudgamal2727@gmail.com](mailto:mahmoudgamal2727@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/mahmoud-gamal-593039257](https://www.linkedin.com/in/mahmoud-gamal-593039257)
+* GitHub: [https://github.com/mahmoudG27](https://github.com/mahmoudG27)
+* Location: 6th of October, Giza, Egypt
 
-## 🛠 Skills  
-- **Cloud:** Azure, AWS (Basics), GCP (Basics)  
-- **Containerization:** Docker, Kubernetes, Helm  
-- **CI/CD:** GitHub Actions, Azure DevOps Pipelines  
-- **IaC:** Terraform, Bicep (Basics)  
-- **Linux:** Red Hat, CentOS, Ubuntu, SLES  
-- **Monitoring:** Prometheus, Grafana, Node Exporter  
-- **Automation & Scripting:** Bash, PowerShell  
-- **Other Tools:** NGINX, Memcached, MySQL, GlusterFS, Pacemaker/Corosync  
+---
 
-<hr>
+## 💼 Experience
 
-## 🎓 Certifications  
+**Azure Cloud Engineer – Open Source**
+*KlayyTech for Digital Transformation*
+*Aug 2023 – Present*
+
+---
+
+## 🛠️ Technical Skills
+
 <p align="left">
-  <!-- Example badges — replace or add more if needed -->
-  <img src="https://img.shields.io/badge/RHCE-Red%20Hat%20Certified%20Engineer-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RHCSA-Red%20Hat%20Certified%20System%20Admin-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326ce5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AZ--104-Microsoft%20Azure%20Administrator-0078d4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AZ--400-DevOps%20Engineer%20Expert-0078d4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" title="Azure"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" title="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" title="Kubernetes"/>
+  <img src="https://www.vectorlogo.zone/logos/helm/helm-icon.svg" width="40" height="40" title="Helm"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" title="Jenkins"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40" title="Ansible"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40" title="Terraform"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40" title="Python"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" title="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" title="Nginx"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" width="40" height="40" title="Apache"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" height="40" title="Prometheus"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" title="Grafana"/>
 </p>
 
-<hr>
+---
 
-## 📫 Contact Me  
+## 🎓 Certifications
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/mahmoud-gamal-593039257" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  <a href="https://wa.me/201010647265" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="45"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" title="AZ-204"/> Azure Developer Associate (AZ-204)
+</p>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" title="AZ-400"/> Azure DevOps Engineer Expert (AZ-400)
+</p>
+<p align="left">
+  <img src="https://www.redhat.com/cms/managed-files/red-hat-logo.svg" width="40" height="40" title="RHCE"/> Red Hat Certified Engineer (RHCE – EX294)
+</p>
+<p align="left">
+  <img src="https://www.linuxfoundation.org/wp-content/uploads/2022/07/lf-logo-horizontal-color-rgb-600x142.png" width="40" height="40" title="CKA"/> Certified Kubernetes Administrator (CKA)
+</p>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" title="AZ-104"/> Azure Administrator Associate (AZ-104)
+</p>
+<p align="left">
+  <img src="https://www.redhat.com/cms/managed-files/red-hat-logo.svg" width="40" height="40" title="RHCSA"/> Red Hat Certified System Administrator (RHCSA – EX200)
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/> AWS Certified Cloud Practitioner
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+I am a passionate DevOps and Azure Cloud Engineer focused on leveraging open-source tools to build scalable, reliable, and automated cloud infrastructure. I enjoy solving complex problems, optimizing pipelines, and improving operational efficiency.
+
+---
